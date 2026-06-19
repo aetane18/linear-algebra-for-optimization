@@ -1,0 +1,2 @@
+linear_regression_mae,linear_regression_rmse,linear_regression_r2,ridge_regression_mae,ridge_regression_rmse,ridge_regression_r2,pca_component_1_variance,pca_component_2_variance,pca_total_variance_explained
+0.5332001304956565,0.7455813830127764,0.5757877060324508,0.5331931195789734,0.7455567442814779,0.5758157428913684,0.2531382615469042,0.23403181640712323,0.48717007795402745
